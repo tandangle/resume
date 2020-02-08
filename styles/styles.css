@@ -3,7 +3,20 @@ html {
     font-family: 'Titillium Web', sans-serif; /* this should be the rest of the output you got from Google fonts */
   }
 
-.box3 {
+.space{
+  height: 200px;
+}
+
+.box1 {
+  position: fixed;
+  background-color: grey; 
+  opacity: 70%;
+  border: #4b5463; 
+  border-width: 4px;
+  border-style: solid;
+}
+
+.box4 {
     background-color: #8E8E8E;
     width: 350px;
     height: 300px;
